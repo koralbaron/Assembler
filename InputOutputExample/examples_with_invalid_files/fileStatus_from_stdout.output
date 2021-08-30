@@ -1,0 +1,33 @@
+"ps3.as" file status is:
+
+  2) first run error: invalid use of .string ,missing closing quots 
+  3) first run error: symbol word cannot be a keyword 
+  3) first run error: undefined line 
+  4) first run error: first char is symbol word cannot contain non alphabetic char 
+  4) first run error: undefined line 
+  6) first run error: duplicate symbol 
+  7) first run error: too many arguments for the command, expected non operand 
+  9) first run error: invalid operand 
+ 11) first run error: undefined line 
+ 12) first run error: invalid value in .data 
+ 13) first run error: symbol word length is too long 
+ 13) first run error: undefined line 
+ 14) first run error: invalid value in .data 
+ 16) first run error: invalid operand or missing oprand 
+  1) second run error: invalid operand 
+  3) second run error: symbol word cannot be a keyword 
+  3) second run error: undefined line 
+  4) second run error: first char is symbol word cannot contain non alphabetic char 
+  4) second run error: undefined line 
+  5) second run error: using symbol without any decleration 
+  7) second run error: too many arguments for the command, expected non operand 
+  8) second run error: using symbol without any decleration 
+  9) second run error: invalid operand 
+  9) second run error: invalid operand 
+ 10) second run error: immediate number is too big or too small 
+ 10) second run error: immediate number is too big or too small 
+ 11) second run error: undefined line 
+ 13) second run error: symbol word length is too long 
+ 13) second run error: undefined line 
+ 15) second run error: using symbol without any decleration 
+ 16) second run error: invalid operand or missing oprand 
