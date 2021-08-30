@@ -3,4 +3,4 @@
   otherwise prints the errors to stdout.
   
   * Folder 'InputOutputExample' contains some testing.
-  Language: C
+  * Language: C
